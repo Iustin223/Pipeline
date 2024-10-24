@@ -7,3 +7,4 @@ app = Flask(__name__)
 def hello():
     return '<h1>Hello, World!</h1>'
 
+print()
